@@ -1,10 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1 Tiny//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-tiny.dtd">
-<svg version="1.1" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-	 x="0px" y="0px" viewBox="0 0 512 512" xml:space="preserve">
-<path fill="#FFFFFF" d="M256,144.1c-61.7,0-111.9,50.2-111.9,111.9S194.3,367.9,256,367.9S367.9,317.7,367.9,256
-	S317.7,144.1,256,144.1z M213.3,317.3V194.7l104,58.7L213.3,317.3z"/>
-<path fill="#FFFFFF" d="M256,21.3C126.4,21.3,21.3,126.4,21.3,256S126.4,490.7,256,490.7S490.7,385.6,490.7,256S385.6,21.3,256,21.3
-	z M256,378.7c-67.8,0-122.7-54.9-122.7-122.7S188.2,133.3,256,133.3S378.7,188.2,378.7,256S323.8,378.7,256,378.7z"/>
+<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<title>Youtube Music icon</title>
+<path d="M12,6.5C9,6.5,6.5,9,6.5,12S9,17.5,12,17.5s5.5-2.5,5.5-5.5S15,6.5,12,6.5z M9.9,15V9l5.1,2.9L9.9,15z   M12,0.5C5.6,0.5,0.5,5.6,0.5,12S5.6,23.5,12,23.5S23.5,18.4,23.5,12S18.4,0.5,12,0.5z M12,18c-3.3,0-6-2.7-6-6s2.7-6,6-6s6,2.7,6,6  S15.3,18,12,18z"/>
 </svg>
